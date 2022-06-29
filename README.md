@@ -25,3 +25,8 @@
 
 ### CLEAR
 ` _stack.Clear(); `
+
+## RUNNING THE PROGRAM
+> Git clone the project on your EDITOR (VS, Rider, VSCode, etc)
+> No dependencies needed
+> Run the project
