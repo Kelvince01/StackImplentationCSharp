@@ -1,0 +1,7 @@
+C:\Users\kelvi\RiderProjects\WinForms\Projects\StackImpl\StackImpl\bin\Debug\StackImpl.exe
+C:\Users\kelvi\RiderProjects\WinForms\Projects\StackImpl\StackImpl\bin\Debug\StackImpl.pdb
+C:\Users\kelvi\RiderProjects\WinForms\Projects\StackImpl\StackImpl\obj\Debug\StackImpl.csproj.AssemblyReference.cache
+C:\Users\kelvi\RiderProjects\WinForms\Projects\StackImpl\StackImpl\obj\Debug\StackImpl.csproj.SuggestedBindingRedirects.cache
+C:\Users\kelvi\RiderProjects\WinForms\Projects\StackImpl\StackImpl\obj\Debug\StackImpl.csproj.CoreCompileInputs.cache
+C:\Users\kelvi\RiderProjects\WinForms\Projects\StackImpl\StackImpl\obj\Debug\StackImpl.exe
+C:\Users\kelvi\RiderProjects\WinForms\Projects\StackImpl\StackImpl\obj\Debug\StackImpl.pdb
