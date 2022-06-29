@@ -1,8 +1,8 @@
-# Stack Implentation C#
+# Stack Implentation in C#
 ## USAGES
 ### INITIALIZATION
 ` Stack<T> _stack = new Stack<T>(20); `
-> T is a datatype you need to use
+> T is a datatype you need to use e.g., int, string, char
 
 ### PUSH
 ` _stack.Push(10); `
